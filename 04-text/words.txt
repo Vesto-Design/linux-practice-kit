@@ -1,0 +1,7 @@
+the terminal is a powerful tool that every developer should learn
+the more you practice the faster you become at using the terminal
+commands like grep find and sort make working with data very easy
+learning one command at a time is the best way to get started
+practice every day and within weeks you will feel very confident
+the terminal is not scary the terminal is just a different way to
+work with your computer and the more you use it the more you love it

@@ -1,0 +1,10 @@
+#!/bin/bash
+echo "=========================================="
+echo "  Hello! The script is running correctly."
+echo "  You successfully used chmod +x to"
+echo "  give this file execute permission!"
+echo ""
+echo "  Current user: $(whoami)"
+echo "  Current time: $(date)"
+echo "  Current folder: $(pwd)"
+echo "=========================================="

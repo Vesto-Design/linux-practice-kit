@@ -1,0 +1,9 @@
+{
+  "users": [
+    { "id": 1, "name": "Alice Johnson", "role": "admin", "city": "London" },
+    { "id": 2, "name": "Bob Smith", "role": "user", "city": "New York" },
+    { "id": 3, "name": "Carol Williams", "role": "user", "city": "Lagos" },
+    { "id": 4, "name": "David Brown", "role": "editor", "city": "Berlin" },
+    { "id": 5, "name": "Emma Davis", "role": "user", "city": "Toronto" }
+  ]
+}

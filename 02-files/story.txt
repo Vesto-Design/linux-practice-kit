@@ -1,0 +1,46 @@
+The Terminal and the Beginner
+
+Chapter 1: The First Command
+
+It was a Monday morning when Sarah sat down at her laptop and opened
+the terminal for the very first time. The black screen stared back at her,
+a blinking cursor waiting patiently.
+
+She had heard that learning the terminal would make her faster, smarter,
+and more in control of her computer. But the first time she saw it, she
+felt a wave of panic.
+
+"Where do I even start?" she whispered.
+
+Chapter 2: The First Steps
+
+Her first command was simple. She typed pwd and pressed Enter.
+The terminal printed: /home/sarah
+
+"Oh," she said. "It's telling me where I am."
+
+She typed ls next. A list of folders appeared. Documents. Downloads.
+Desktop. Projects. Things she recognised.
+
+"This is just like looking at my files," she realised. "Just with words
+instead of pictures."
+
+Chapter 3: Growing Confidence
+
+Weeks passed. Sarah learned cd, mkdir, cp, and mv. She made mistakes.
+She deleted a file with rm and spent five minutes looking for it in the
+trash before she remembered: Linux terminal has no trash.
+
+But she did not give up. She learned from each mistake.
+
+Chapter 4: The Power User
+
+Six months later, Sarah automated her entire backup system using a shell
+script and cron. What used to take her 30 minutes every Friday night now
+happened silently at 2am while she slept.
+
+She smiled at the terminal that had once scared her.
+
+"We're good friends now," she said.
+
+THE END

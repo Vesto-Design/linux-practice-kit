@@ -1,0 +1,4 @@
+This is a public information file.
+Anyone on this system can read it.
+Practice: run  chmod 644 public.txt  to set it as world-readable.
+This is the standard permission for most web files.

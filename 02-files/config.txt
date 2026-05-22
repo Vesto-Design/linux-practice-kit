@@ -1,0 +1,19 @@
+# Application Configuration
+# Edit values below to customise your setup
+
+APP_NAME=MyApp
+APP_PORT=3000
+APP_ENV=development
+
+DATABASE_HOST=localhost
+DATABASE_PORT=5432
+DATABASE_NAME=myapp_db
+DATABASE_USER=admin
+DATABASE_PASSWORD=secret123
+
+LOG_LEVEL=info
+LOG_FILE=/var/log/myapp.log
+
+MAX_CONNECTIONS=100
+TIMEOUT=30
+DEBUG_MODE=false

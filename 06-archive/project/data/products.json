@@ -1,0 +1,9 @@
+{
+  "products": [
+    { "id": 1, "name": "Linux Handbook", "price": 29.99, "category": "books" },
+    { "id": 2, "name": "Terminal Cheatsheet", "price": 9.99, "category": "resources" },
+    { "id": 3, "name": "Server Setup Course", "price": 49.99, "category": "courses" },
+    { "id": 4, "name": "DevOps Bundle", "price": 79.99, "category": "courses" },
+    { "id": 5, "name": "SSH Mastery", "price": 24.99, "category": "books" }
+  ]
+}
