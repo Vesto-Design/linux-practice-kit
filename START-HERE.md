@@ -20,14 +20,14 @@ HOW TO USE THIS KIT
 FOLDER STRUCTURE
 ════════════════
 linux-practice-kit/
-├── START-HERE.md             ← You are here
-├── 01-navigation/            ← pwd, ls, cd, mkdir, rmdir
-├── 02-files/                 ← touch, cat, cp, mv, rm, nano, head, tail
-├── 03-search/                ← grep, find, which, wc
-├── 04-text/                  ← sort, uniq, cut, awk, sed, tee
-├── 05-permissions/           ← chmod, chown, sudo, groups
-├── 06-archive/               ← tar, zip, unzip
-└── 07-pipes-redirect/        ← pipes |, redirect >, >>, &&, keyboard shortcuts
+├── START-HERE.md             
+├── 01-navigation/            
+├── 02-files/                 
+├── 03-search/                
+├── 04-text/                  
+├── 05-permissions/           
+├── 06-archive/               
+└── 07-pipes-redirect/        
 
 KEYBOARD SHORTCUTS TO LEARN TODAY
 ═══════════════════════════════════
