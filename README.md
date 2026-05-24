@@ -122,8 +122,8 @@ Each post is a 5-slide carousel covering: hook, caption, terminal screenshot, pr
 
 ## Follow the Series
 
-**LinkedIn:** [linkedin.com/in/YOUR-PROFILE](https://www.linkedin.com/in/vesto/)  
-**Instagram:** [@YOUR-HANDLE](https://www.instagram.com/vestodesign/)
+**LinkedIn:** [Opeoluwa Emmanuel](https://www.linkedin.com/in/vesto/)  
+**Instagram:** [VESTO](https://www.instagram.com/vestodesign/)
 
 New command every Monday and Thursday.  
 Follow so you know when the next module drops. 🐧
