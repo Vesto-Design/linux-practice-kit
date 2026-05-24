@@ -23,7 +23,7 @@ Click the green **Code** button above → **Download ZIP** → unzip on your com
 
 Or clone it:
 ```bash
-git clone https://github.com/YOUR-USERNAME/linux-practice-kit.git
+git clone https://github.com/Vesto-Design/linux-practice-kit.git
 cd linux-practice-kit
 ```
 
@@ -122,8 +122,8 @@ Each post is a 5-slide carousel covering: hook, caption, terminal screenshot, pr
 
 ## Follow the Series
 
-**LinkedIn:** [linkedin.com/in/YOUR-PROFILE](https://linkedin.com/in/YOUR-PROFILE)  
-**Instagram:** [@YOUR-HANDLE](https://instagram.com/YOUR-HANDLE)
+**LinkedIn:** [linkedin.com/in/YOUR-PROFILE](https://www.linkedin.com/in/vesto/)  
+**Instagram:** [@YOUR-HANDLE](https://www.instagram.com/vestodesign/)
 
 New command every Monday and Thursday.  
 Follow so you know when the next module drops. 🐧
